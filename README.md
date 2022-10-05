@@ -13,7 +13,7 @@
 
 <div align= "left">
 
-:notebook_with_decorative_cover: **Linguagens**
+:notebook_with_decorative_cover: Linguagens
 
 * JavaScript
 
@@ -33,8 +33,8 @@
 
 <div align="left">
 
-:speech_balloon: <b>Informações:</b>
 :speech_balloon: Informações:
+
 * <a href="mailto:cristinaffrison@gmail.com"/><img src= "https://img.shields.io/badge/-Cristina_Frison-white?style=flat-square&logo=Gmail&logoColor=red"/>
 </a>
 
