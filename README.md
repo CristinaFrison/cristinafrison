@@ -6,37 +6,40 @@
 <h4 align="center">Aspirante a programadora.</4><br>
 <br>
 <div align="center">
-<img src = "https://media.tenor.com/M2pgz7Gtu5UAAAAC/gilmore-girls-coffee.gif">
+<img src = "https://media.tenor.com/M2pgz7Gtu5UAAAAC/gilmore-girls-coffee.gif"/>
 </div>
 
 ---
 
 <div align= "left">
 
-:notebook_with_decorative_cover:Linguagens
+:notebook_with_decorative_cover: **Linguagens**
 
--JavaScript
+* JavaScript
 
--Java
+* Java
 </div>
-<br>
-<br>
 <br>
 <div align="left">
 
-:coffee:Off
+:coffee: Off
 
--Pseudo barista
+* Pseudo barista
 
--PeopleLoveCats
+* PeopleLoveCats
 </div>
 
 ---
 
 <div align="left">
 
-Informações:
+:speech_balloon: <b>Informações:</b>
+:speech_balloon: Informações:
+* <a href="mailto:cristinaffrison@gmail.com"/><img src= "https://img.shields.io/badge/-Cristina_Frison-white?style=flat-square&logo=Gmail&logoColor=red"/>
+</a>
 
--📧<a href="mailto:cristinaffrison@gmail.com">cristinaffrison@gmail.com</a>
+
+* <img src= "https://img.shields.io/badge/-Cristina_Frison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/cristinafrison"/>
+
 
 </div>
